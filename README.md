@@ -10,7 +10,7 @@ A mobile app for the students at Liceo Scientifico "Alfredo Oriani" in Ravenna.
 
 🧪 A weekly timetable to keep up on morning and afternoon activities for each lab
 
-🥪 A tab allowing students to place orders at the school bar
+🥪 A tab allowing students to place orders at the school cafeteria
 
 ![Banner](banner.png)
 
