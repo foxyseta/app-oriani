@@ -12,6 +12,8 @@ A mobile app for the students at Liceo Scientifico "Alfredo Oriani" in Ravenna.
 
 🥪 A tab allowing students to place orders at the school bar
 
+![Banner](banner.png)
+
 ## Downloads
 - [Google Play](https://play.google.com/store/apps/details?id=it.edu.liceoscientificoravenna.apporiani&gl=IT)
 - [App Store](https://apps.apple.com/it/app/app-oriani/id1531844939)
