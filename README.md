@@ -1,6 +1,12 @@
 # App Oriani
 A mobile app for the students at Liceo Scientifico "Alfredo Oriani" in Ravenna.
 
+## Acknowledgments
+Francesco Ravaglia and Giulia Ghirardini helped me design the application, while
+Francesco Ravaglia and Giovanni Brandolini provided most of the graphics used by
+App Oriani. I also wish to thank Luca Bulgarelli, Giovanni Rinchiuso, Nicola
+Cavarra, Stefano Zecchi, and Francesco Bondi for their useful beta testing.
+
 ## Functions
 📰 A bullletin board constantly updated with the latest news
 
