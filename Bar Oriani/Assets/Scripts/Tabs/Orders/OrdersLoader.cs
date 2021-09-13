@@ -1,4 +1,4 @@
-﻿using ESC_POS_USB_NET.Printer;
+using ESC_POS_USB_NET.Printer;
 using System.Collections.Generic;
 using System.Drawing;
 using System.Globalization;

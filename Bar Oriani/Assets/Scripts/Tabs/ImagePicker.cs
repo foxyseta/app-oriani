@@ -1,4 +1,4 @@
-﻿using SFB;
+using SFB;
 using System.IO;
 using UnityEngine;
 using UnityEngine.UI;

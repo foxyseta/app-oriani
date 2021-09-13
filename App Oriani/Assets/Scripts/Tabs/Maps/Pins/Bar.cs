@@ -1,4 +1,4 @@
-﻿public class Bar : Pin
+public class Bar : Pin
 {
     public TabButton barTabButton;
 
